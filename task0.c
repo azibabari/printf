@@ -1,6 +1,8 @@
 #include <stdarg.h>
 #include <unistd.h>
 #include "main.h"
+#include <stdio.h>
+#include <stddef.h>
 /**
  * _printf - prints a formatted string to the standard output
  * @format: the format string
